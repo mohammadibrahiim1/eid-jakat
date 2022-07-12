@@ -5,11 +5,14 @@ body{
 }
 
 .header-section{
-    background-image: url(images/eid-jakat-img.jpg);
+    background-image: url(images/Rectangle\ 1.png);
     height: 699.79px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+
+
+  
    
     
 }
@@ -269,7 +272,7 @@ body{
 .last-one-section span{
     color: white;
    margin-top: -10px;
-   
+
 }
 
 
