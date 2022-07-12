@@ -250,6 +250,28 @@ body{
     padding: 120px 350px; 
 }
 
+.last-one-section{
+    text-align: center;
+    background-color: #121212;
+    padding: 50px;
+ 
+
+}
+
+.last-one-section h2{
+    font-family: Lobster;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #EF233C;
+
+}
+
+.last-one-section span{
+    color: white;
+   margin-top: -10px;
+   
+}
+
 
 
 
