@@ -194,7 +194,61 @@ body{
       padding: 150px 350px;
     }
 
+    .charity{
+        text-align: center;
+        text-transform: capitalize;
+
+    }
+.charity h1{
+    font-size: 48px;
+    font-family: poppins;
+    font-weight: 700;
+    margin-top: -50px;
+
+
+}
+
+.charity h5{
+    color: #707070;
+    font-size: 16px;
+    margin-top: -20px;
+}
+
+.extend-section{
+    border: 1px solid #c8c8c8;
+    border-radius: 12px;
+    width: 364px;
+    height: 481px;
+}
+
+.extend-section-content h3{
+    font-family: 18px;
+    text-transform: capitalize;
+    padding-left: 20px;
+
+}
+
+.extend-section-content h5{
+    text-transform: lowercase;
+    color:gray ;
+    padding-left: 20px;
+    text-align: justify;
+
+}
+
+
+.extend-section-content a{
+    padding-left: 20px;
+    color: red;
+    text-transform: capitalize;
+}
     
+
+.last-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 120px 350px; 
+}
 
 
 
