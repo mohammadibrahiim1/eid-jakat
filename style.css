@@ -1,6 +1,6 @@
 body{ 
     font-family: 'Poppins',
-    sans-serif;
+    'sans-serif';
     margin: 0;
 }
 
@@ -80,7 +80,7 @@ body{
 }
 
 #newstyle{
-    margin-right: -350px;
+    margin-right: -400px;
 }
 
 #dcs{
@@ -180,6 +180,18 @@ body{
 
     #new{
         margin-right: -450px;
+    }
+
+    #prayer-img{
+        height: 391px;
+        width: 364px;
+       
+    }
+
+    .img-section{
+        display: flex;
+      justify-content: space-evenly;
+      padding: 150px 350px;
     }
 
     
