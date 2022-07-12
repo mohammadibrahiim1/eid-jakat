@@ -1,0 +1,189 @@
+body{ 
+    font-family: 'Poppins',
+    sans-serif;
+    margin: 0;
+}
+
+.header-section{
+    background-image: url(images/eid-jakat-img.jpg);
+    height: 699.79px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.header-section h1 {
+    position: absolute;
+    color: white;
+    font-size: 55px;
+    font-weight: 700;
+    font-family: 'inter';
+    width: 526px;
+    height: 150px;
+    top: 150px;
+    left: 219px;
+    text-transform: capitalize;
+    
+}
+
+.header-section h4{
+    position: absolute;
+    width: 480px;
+    height: 84px;
+    left: 219px;
+    top: 320px;
+    color: rgba(255, 255, 255, 0.864);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.header-section a{
+    position: absolute;
+    top: 424px;
+    left: 219px;
+    border: 1px solid tomato;
+    border-radius: 5px ;
+    background-color: tomato;
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.donation-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.donation-section img{
+    width: 456px ;
+    height: 477px;
+    margin-top: 150px;
+    border-radius: 10px;
+
+}
+
+.donation-content-style{
+  
+ width: 493px;
+ height: 374px;
+ margin-top: 100px;
+
+ 
+
+
+}
+
+#newstyle{
+    margin-right: -350px;
+}
+
+#dcs{
+    margin-left: 100px;
+}
+
+.donation-content-style h2{
+    font-size: 35px;
+    text-transform: capitalize;
+    line-height: 54.46px;
+    color: #121212;
+    font-family: 'inter';
+    font-weight: 700;
+
+
+}
+
+.donation-content-style h5{
+    font-size: 15px;
+    font-family:'poppins' ;
+    font-weight: 400;
+    line-height: 28px;
+    color: #707070;
+
+}
+
+.donation-content-style a {
+    border: 1px solid tomato;
+    border-radius: 5px;
+    background-color: tomato;
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.depend-section{
+    text-align: center;
+
+}
+
+.depend-section h1{
+    font-size: 52px;
+    font-family: poppins;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-top: 150px;
+
+}
+
+.depend-section h4{
+    font-size: 16px;
+    color: #707070;
+    font-family: poppins;
+    margin-top: -40px;
+    }
+
+    .depend-section-content{
+        display: flex;
+        border: 1px solid gray;
+        background-color: #FEF4F5;
+        border-radius: 7px;
+        border-color: #FEF4F5;
+        width: 461px;
+        height: 225px;
+        margin-top: 25px;
+
+     
+
+    }
+
+    .depend-section-img{
+        margin: 35px;
+
+    }
+
+    .depend-section-text h3{
+        font-size: 28px;
+        text-transform: capitalize;
+        color: #121212;
+
+
+    }
+
+    .depend-section-text h5{
+        font-size: 16px;
+        color: #707070;
+        margin-top: -25px;
+
+    }
+
+    #depend{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    #new{
+        margin-right: -450px;
+    }
+
+    
+
+
+
+
